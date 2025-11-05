@@ -25,7 +25,7 @@ To **reproduce** and **validate** the reported performance of the GMM–GCO hybr
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 1. Clone the repository.  
 2. Open notebooks in Jupyter or Google Colab.  
@@ -34,7 +34,7 @@ To **reproduce** and **validate** the reported performance of the GMM–GCO hybr
 
 ---
 
-## 📄 Reference
+## Reference
 
 Perveen, S. et al. (2025). *Unsupervised Fake News Detection on Social Media Using Hybrid Gaussian Mixture Model (GMM–GCO)*.  
 **PLOS ONE**, 20(3): e0330421.  
