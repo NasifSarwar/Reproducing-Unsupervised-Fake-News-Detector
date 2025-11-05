@@ -4,7 +4,7 @@ This repository reproduces and extends the experiments from the paper
 **[“Unsupervised Fake News Detection on Social Media Using Hybrid Gaussian Mixture Model (GMM–GCO)”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330421)** (PLOS ONE, 2025).
 
 Original implementation reference:  
-**GitHub:** [https://github.com/perveen-2025/GMM-GCO-FakeNews](https://github.com/perveen-2025/GMM-GCO-FakeNews) *(from paper)*
+**GitHub:** [https://github.com/perveen-2025/GMM-GCO-FakeNews](https://github.com/Sajida-Perveen/Project-code) *(from paper)*
 
 ---
 
