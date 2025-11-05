@@ -18,22 +18,6 @@ Original implementation reference:
 | **preprocessed_news_data (1).csv** | Cleaned and preprocessed version of `news_data.tsv` —
 
 ---
-
-## Objective
-
-To **reproduce** and **validate** the reported performance of the GMM–GCO hybrid model for unsupervised fake news detection, ensuring transparency and reproducibility of results.
-
----
-
-## Usage
-
-1. Clone the repository.  
-2. Open notebooks in Jupyter or Google Colab.  
-3. Run `Unsupervised_Learning_Fake_News_Detector_Reproducibility.ipynb` to reproduce baseline results.  
-4. Run `GMM_+_GCO.ipynb` to execute the hybrid model and compare metrics (Silhouette, ARI, Purity).  
-
----
-
 ## Reference
 
 Perveen, S. et al. (2025). *Unsupervised Fake News Detection on Social Media Using Hybrid Gaussian Mixture Model (GMM–GCO)*.  
