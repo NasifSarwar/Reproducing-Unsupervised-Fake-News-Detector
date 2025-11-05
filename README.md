@@ -15,7 +15,7 @@ Original implementation reference:
 | **Unsupervised_Learning_Fake_News_Detector_Reproducibility.ipynb** | Jupyter notebook reproducing the baseline unsupervised models (K-Means, K-Medoids, GMM). Includes full preprocessing, clustering, and evaluation steps. |
 | **GMM_+_GCO.ipynb** | Implementation of the hybrid **GMM–GCO** model. Integrates Group Counseling Optimization (GCO) for global parameter tuning of the Gaussian Mixture Model. |
 | **news_data.tsv** | Original raw dataset containing labeled/unlabeled social media news samples used in the study. |
-| **preprocessed_news_data (1).csv** | Cleaned and preprocessed version of `news_data.tsv` — includes feature vectors (TF-IDF or embeddings) used directly for clustering in both baseline and hybrid models. |
+| **preprocessed_news_data (1).csv** | Cleaned and preprocessed version of `news_data.tsv` —
 
 ---
 
